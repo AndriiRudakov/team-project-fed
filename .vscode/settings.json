@@ -1,0 +1,12 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#203127",
+        "titleBar.activeBackground": "#2D4536",
+        "titleBar.activeForeground": "#F9FBFA"
+    },
+    "html.suggest.html5": true,
+    "editor.linkedEditing": true,
+    "emmet.includeLanguages": {
+        "javascript": "html"
+    }
+}
